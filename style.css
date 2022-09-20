@@ -1,4 +1,5 @@
 body {
+  position: relative;
   background-color: #131313;
-  font-size: 23px;
+  font-size: 25px;
 }
